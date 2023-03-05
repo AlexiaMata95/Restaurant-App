@@ -13,15 +13,15 @@ function App() {
           <a href='/menu'className='link'>
             Menú
           </a>
-          <img src={logo} alt='Logo' className='logo'></img>
-          <a href={'/reservaciones'}className='link'>
+          <a href='/'><img src={logo} alt='Logo' className='logo'></img></a>
+          <a href={'/reservaciones'} className='link'>
             Reservaciones
             </a>
         </div>
       </header>
       <section className='jumbotron'>
         <div className='nosotros '>
-          <img src={nosotros}></img>
+          <img src={nosotros} alt='nosotros'></img>
           </div>
       </section>
       <section className='informacion'>
