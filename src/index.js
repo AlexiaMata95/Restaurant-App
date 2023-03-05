@@ -6,7 +6,8 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import App from './App';
-import Reservaciones from './routes/reservaciones'
+import Reservaciones from './Reservaciones'
+import Menu from './components/Menu';
 import reportWebVitals from './reportWebVitals';
 
 const router = createBrowserRouter([
@@ -18,6 +19,12 @@ const router = createBrowserRouter([
     path: '/reservaciones',
     id:'reservaciones',
     element: <Reservaciones />
+  }
+  ,
+  {
+    path: '/menu',
+    id:'menu',
+    element: <Menu />
   }
 ]);
 
