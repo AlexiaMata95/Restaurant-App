@@ -1,43 +1,5 @@
 
   @import url('https://fonts.googleapis.com/css2?family=Fleur+De+Leah&family=Great+Vibes&display=swap');
-
-.beige{
-  color: #EEE4DB;
-}
-.rosa{
-  color: #E3B9AE;
-}
-.gris-osc{
-  color: #757074;
-}
-.gris-claro{
-  background-color: #BEB6BC;
-}
-.beige-osc{
-  color: #D7C8C1;
-}
-.hueso{
-  color: #F0EEED;
-}
-.back-beige{
-  background-color:  #EEE4DB;
-}
-.back-rosa{
-  background-color:  #E3B9AE;
-}
-.back-gris-osc{
-  background-color:  #757074;
-}
-.back-gris-claro{
-  background-color: #BEB6BC;
-}
-.back-beige-osc{
-  background-color: #D7C8C1;
-}
-.back-hueso{
-  background-color:  #F0EEED;
-}
-
 .App-header {
   min-height: 20vh;
   display: flex;
@@ -67,7 +29,7 @@
   margin: 0;
   width: 100%;
   height: calc(0.6 * 100vw);
-  background-image: url('./jumbotron.jpg');
+  background-image: url('./images/jumbotron.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -119,8 +81,6 @@
 }
 /* Responsive móviles */
 @media screen and (max-width:767px){
-  @import url('https://fonts.googleapis.com/css2?family=Fleur+De+Leah&family=Great+Vibes&display=swap');
-
   .App-header {
     min-height: 20vh;
     display: flex;
@@ -150,7 +110,7 @@
     margin: 0;
     width: 100%;
     height: auto;
-    background-image: url('./jumbotron.jpg');
+    background-image: url('./images/jumbotron.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;

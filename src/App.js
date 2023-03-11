@@ -1,9 +1,9 @@
 import './App.css';
-import logo from './logo-dried.png'
-import nosotros from './nosotros.png'
-import whatsapp from './whatsapp.png'
-import llamar from './llamar.png'
-import email from './email.png'
+import logo from './components/images/logo-dried.png'
+import nosotros from './components/images/nosotros.png'
+import whatsapp from './components/images/whatsapp.png'
+import llamar from './components/images/llamar.png'
+import email from './components/images/email.png'
 
 function App() {
   return (

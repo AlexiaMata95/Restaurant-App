@@ -6,7 +6,7 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import App from './App';
-import Reservaciones from './Reservaciones'
+import Reservaciones from './components/Reservaciones'
 import Menu from './components/Menu';
 import reportWebVitals from './reportWebVitals';
 

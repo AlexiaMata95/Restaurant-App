@@ -1,6 +1,6 @@
 import React from 'react'
 import './menu.css';
-import logo from './logo-dried.png'
+import logo from './images/logo-dried.png'
 import { useState } from 'react'
 import Menuselection from './Menuselection'
 

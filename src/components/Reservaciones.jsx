@@ -1,6 +1,6 @@
 import React from 'react'
 import './reservaciones.css';
-import logo from './logo-dried.png'
+import logo from './images/logo-dried.png'
 import { useState, useEffect } from 'react'
 import { db } from './firebase';
 import {
