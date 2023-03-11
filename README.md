@@ -10,4 +10,4 @@ Este proyecto fué realizado cómo parte del bootcamp [Desarrollo Web Fullstack]
 <li>Cloud Firestore para el manejo de datos</li>
 </ul>
 
-La página desplegada puede visitarse [aquí] (https://main--sage-tapioca-d24815.netlify.app/)
+La página desplegada puede visitarse [aquí] (https://main--sage-tapioca-d24815.netlify.app)
